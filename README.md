@@ -6,11 +6,11 @@ Works on hand drawn.
 ## cli
 call img.py -p PATH/TO/IMG
 it will store components in dump folder
-everything else is self explainatory
+everything else is self explanatory
 
 ## model
 pre trained model in colab_images/model3.h5 pretty inaccurate
 
 ## telegram integration
-golang: put your bot token in the imgserver.go file and change the basePath variable to wherever your folder is
-when you run it, if you send the bot an image, itll respond with segmented components
+golang: put your bot token in the imgserver.go file and change the basePath variable to wherever your folder is.
+Run it and send the bot an image, it'll respond with segmented components.
