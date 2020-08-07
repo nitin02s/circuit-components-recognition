@@ -2,6 +2,7 @@
 Give it a circuit, it'll give you the components with their locations.
 
 Works on hand drawn.
+please create a folder named dump in the same directory
 
 ## cli
 call img.py -p PATH/TO/IMG
