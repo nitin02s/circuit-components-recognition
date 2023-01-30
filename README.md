@@ -1,6 +1,9 @@
 # circuit-symbol-detector
 
 ![](https://github.com/nitin02s/circuit-components-recognition/blob/master/Demo.gif)
+
+
+
 Give it a circuit, it'll give you the components with their locations.
 
 Works on hand drawn.
